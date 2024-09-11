@@ -15,7 +15,7 @@
 
 ## Introduction
 
-The Seismic Data Processor is a Python script designed to automate the process of downloading, updating, and managing seismic station metadata from various FDSN (International Federation of Digital Seismograph Networks) web services. It provides a flexible and efficient way to maintain an up-to-date inventory of seismic stations, convert metadata formats, and merge XML files for further processing.
+The Inventory Update is a Python script designed to automate the process of downloading, updating, and managing seismic station metadata from various FDSN (International Federation of Digital Seismograph Networks) web services. It provides a flexible and efficient way to maintain an up-to-date inventory of seismic stations, convert metadata formats, and merge XML files for further processing.
 
 This tool is particularly useful for seismologists, geophysicists, and researchers working with large-scale seismic data from multiple networks.
 
