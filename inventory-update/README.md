@@ -1,4 +1,4 @@
-# Seismic Data Processor
+# Inventory Update
 
 ## Table of Contents
 1. [Introduction](#introduction)
